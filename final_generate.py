@@ -5,7 +5,7 @@ import torch
 from IPython import display
 
 
-API_TOKEN = "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"
+API_TOKEN = "YOUR API KEY"
 
 API_URL = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-2"
 headers = {"Authorization": f"Bearer {API_TOKEN}"}
